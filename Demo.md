@@ -1,3 +1,0 @@
-# DEMO
-
-Practice 2
